@@ -12,19 +12,24 @@ Cuando tiene que movilizarse hacia la universidad y el transporte público puede
 
 **Opción A · POV (Punto de Vista)** — describe la necesidad:
 > *[usuario]* necesita *[necesidad]* porque *[insight sorprendente]*.
-Cómo podríamos recordarle a Alejandro que le queda poco tiempo para salir de modo que no llegue tarde a su destino?
 
-**Versión 1:** Alejandro necesita trasladarse con mayor puntualidad porque el transporte público no siempre cumple con los tiempos esperados y puede hacer que llegue tarde.
-___________________________________________________________________________________
-
-**Versión 2:** Alejandro necesita reducir la incertidumbre sobre el tiempo real de sus traslados porque, aunque intenta salir con anticipación, los retrasos del transporte público pueden hacer que incumpla sus compromisos y quede mal ante otras personas.___________________________________________________________________________________
 
 **Opción B · HMW (“How Might We” / ¿Cómo podríamos…?)** — reformula como reto de diseño abierto, **sin** encerrar la solución:
 > ¿Cómo podríamos *[verbo]* para *[usuario]* de modo que *[resultado]*?
 
-**Versión 1:** ¿Cómo podríamos ayudar a Alejandro a anticipar los retrasos de sus traslados para que pueda llegar puntual sin gastar más de lo necesario?___________________________________________________________________________________
+**Versión 1:** 
+## 1. Definición final del problema — HMW
 
-**Versión 2:** ¿Cómo podríamos reducir la incertidumbre que Alejandro enfrenta al utilizar transporte público, para que pueda cumplir sus compromisos con puntualidad y tranquilidad?___________________________________________________________________________________
+> **¿Cómo podríamos reducir la incertidumbre que Alejandro enfrenta al utilizar transporte público, para que pueda cumplir sus compromisos con puntualidad y tranquilidad?**___________________________________________________________________________________
+
+**Versión 2:** 
+## 2. Evidencia
+
+> “Me preocupa quedar mal en algo importante por un retraso que no controlo.” — *[CITA de S2]*
+
+## Por qué vale la pena resolverlo
+
+Es un problema recurrente porque Alejandro utiliza transporte público diariamente. Aunque intenta salir antes o pagar un transporte más costoso cuando tiene una urgencia, sigue sin controlar los retrasos, lo que afecta su tiempo, tranquilidad y cumplimiento de compromisos.___________________________________________________________________________________
 
 ## 2. Ánclalo a la evidencia
 
