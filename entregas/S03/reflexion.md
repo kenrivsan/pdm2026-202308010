@@ -2,8 +2,8 @@
 
 > **Idea clave:** la reflexión muestra que el descubrimiento te cambió algo en la cabeza. Un buen mapa casi siempre desmiente un supuesto. Sé honesto: no hay respuesta "correcta", hay honestidad con la evidencia. **Es parte de la nota.**
 
-**Estudiante (carnet):** Kenneth Rivera______________________  **Entrevistado (alias):** Alejandro______________________
-
+**Estudiante (carnet):** Kenneth Eduardo Rivera Santos — 202308010  
+**Entrevistado (alias):** Alejandro
 ---
 
 ## 1. Lo que yo ASUMÍA antes de mapear
