@@ -5,7 +5,8 @@
 **Estudiante (carnet):** Kenneth Eduardo Rivera Santos - 202308010 ______________________  **Entrevistado (alias):** Alejandro
 ______________________
 
-**Job que intenta lograr:** Lograr que Alejandro se traslade hacia la universidad o a sus compromisos siendo puntual, segura y económica.  _______________________________________________________________
+**Job que intenta lograr:** Trasladarse hacia la universidad o sus compromisos de forma puntual, segura y económica.
+
 
 ---
 
@@ -14,10 +15,10 @@ ______________________
 |                       | Fase 1                                                          | Fase 2                                                                       | Fase 3                                                                          | Fase 4                                                                                                                                     | Fase 5                                                                                  |
 | --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | **Fase** (nombre)     | Prepararse para el transporte                                   | Esperar al transporte                                                        | Realizar recorridor                                                             | Obtener/Calcular tiempo                                                                                                                    | Llegar al destino                                                                       |
-| **Acción** (qué hace) | Calcular cuanto el tiempo para saber a que hora tiene que salir | Esperar a que llegue el transporte publico para ahorrase unos Quetzales      | Subir al bus y esperar paciente a no llegar tarde                               | Al notar que va atrasado el bus, mira la hora y piensa en si seguir en bus o pagar un transporte privado tomando en cuenta que es mas caro | Al llegar a su  destino; cuando llega tarde, debe explicar o disculparse por el retraso |
-| **Piensa / siente**   | Tengo que calcular bien a qué hora salir para no llegar tarde   | Espero que el bus no tarde demasiado; no sé cuánto tiempo tendré que esperar | Tal vez todavía llegue a tiempo, pero el tráfico y las paradas pueden atrasarme | ¿Continúo en el bus o pago un transporte privado, aunque sea más caro?                                                                     | Me preocupa quedar mal en algo importante por un retraso que no controlo                |
-| **Emoción** 😞😐🙂    | Tranquilo pensando en que hacer                                 | Indeciso, impaciente y con ansiedad                                          | Preocupado                                                                      | Ansioso y preocupado                                                                                                                       | Triste y frustrado                                                                      |
-| **Punto de dolor**    | Calcula tiempos de las rutas sin conocerlas exactamente         | No sabe en que momento llegara el transporte                                 | El trafico, las paradas  y los atrasos hacen el recorrido impredecible          | Debe escoger entre llegar tarde, o gastar más dinero que probablemente no puede gastar                                                     | El atraso afecta  sus compromisos y puede hacer  que quede mal ante otras personas      |
+| **Acción** (qué hace) | Calcular cuanto el tiempo para saber a qué hora tiene que salir | Esperar a que llegue el transporte público para ahorrarse unos Quetzales      | Subir al bus y esperar paciente a no llegar tarde                               | Al notar que va atrasado el bus, mira la hora y piensa en si seguir en bus o pagar un transporte privado tomando en cuenta que es mas caro | Al llegar a su  destino; cuando llega tarde, debe explicar o disculparse por el retraso |
+| **Piensa / siente** | **[INF]** Tengo que calcular bien a qué hora salir para no llegar tarde. | **[INF]** Espero que el bus no tarde demasiado; no sé cuánto tendré que esperar. | **[INF]** Tal vez todavía llegue a tiempo, pero el tráfico y las paradas pueden atrasarme. | **[INF]** ¿Continúo en el bus o pago un transporte privado, aunque sea más caro? | **[CITA]** “Me preocupa quedar mal en algo importante por un retraso que no controlo.”    
+| **Emoción** 😞😐🙂    | Tranquilo pensando en qué hacer                                 | Indeciso, impaciente y con ansiedad                                          | Preocupado                                                                      | Ansioso y preocupado                                                                                                                       | Triste y frustrado                                                                      |
+| **Punto de dolor**    | Calcula tiempos de las rutas sin conocerlas exactamente         | No sabe en que momento llegará el transporte                                 | El tráfico, las paradas  y los atrasos hacen el recorrido impredecible          | Debe escoger entre llegar tarde, o gastar más dinero que probablemente no puede gastar                                                     | El atraso afecta  sus compromisos y puede hacer  que quede mal ante otras personas      |
 
 ## Curva emocional (une los puntos según la fila "Emoción")
 
@@ -30,15 +31,20 @@ ______________________
       F1        F2        F3        F4        F5
 ```
 
-## Dolores anclados a evidencia (mínimo 3)
+## Dolores anclados a evidencia
 
-1. **[CITA]** “Me preocupa quedar mal en algo importante por un retraso que no controlo.”  → dolor: el retraso afecta su responsabilidad y la imagen que otras personas tienen de él.______________________
-2. **[CITA]** “Uno no sabe cuánto va a tardar el transporte y por eso es difícil calcular a qué hora salir.” → dolor: ______________________
-3. **[CITA]** “Las aplicaciones de transporte son más confiables, pero utilizarlas todos los días sale muy caro.” → dolor: ______________________
+1. **[CITA]** “El transporte público es tardado y no siempre está a tiempo.”  
+   → dolor: No puede calcular con certeza cuánto tardará en llegar.
 
-## El valle más profundo (tu oportunidad)
+2. **[CITA]** “A veces tengo que salir mucho antes para no llegar tarde.”  
+   → dolor: Debe sacrificar tiempo adicional para compensar los posibles retrasos.
 
-La fase donde más sufre es: **Llegar a sus actividades** porque __________________________________________
+3. **[CITA]** “Me preocupa quedar mal en algo importante por un retraso que no controlo.”  
+   → dolor: Los retrasos pueden afectar sus compromisos y la imagen que otras personas tienen de él.
+
+## El valle más profundo
+
+La fase donde más sufre es **llegar al destino**, porque en ese momento el retraso ya produjo una consecuencia y puede hacerlo incumplir un compromiso o quedar mal ante otras personas, aunque haya intentado salir con anticipación.
 
 ---
 
@@ -46,7 +52,7 @@ La fase donde más sufre es: **Llegar a sus actividades** porque _______________
 
 Elige **un** formato y ánclalo al valle de arriba:
 ¿Cómo podríamos reducir la incertidumbre de los traslados de Alejandro para que pueda llegar puntual y seguro, sin gastar más dinero del necesario?
-**POV:** *[usuario] necesita [necesidad] porque [insight sorprendente].*
+
 
 > Alejandro necesita realizar sus traslados con mayor puntualidad y confianza porque depender de un transporte económico también lo expone a retrasos impredecibles que pueden hacerlo quedar mal en sus compromisos._______________________________________________________________________________________
 
